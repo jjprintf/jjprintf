@@ -7,10 +7,9 @@
   </p><br><br>
   <p align="center" style="padding-top: 10px">
     <code>Arbol de tecnologias</code><br><br>
-    <center>
-      <img style="padding: 10px; flex: 0 0 auto; margin: 10px;"src="https://github-readme-stats.vercel.app/api/pin/?username=PrintfDead&repo=discord-bot">
-    </center><br>
-    <center><img style="padding: 10px; flex: 0 0 auto; margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrintfDead&layout=compact"></center><br><br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrintfDead&repo=discord-bot"><br><br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrintfDead&layout=compact">
+    <br><br>
     <table style="padding: 10px">
       <tr>
         <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width=50></img></th>
