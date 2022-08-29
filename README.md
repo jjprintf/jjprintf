@@ -42,5 +42,13 @@
         <td>React es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página.</td>
       </tr>
     </table>
+    <table>
+      <tr>
+        <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="50px"/></th>
+      </tr>
+      <tr>
+        <td>C++ es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos.</td>
+      </tr>
+    </table>
   </p>
 </p>
