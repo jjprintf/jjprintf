@@ -1,15 +1,19 @@
-<h1 align="center">PrintfDead</h1>
+<h1 align="center">PrintfDead<br><img align="center" src="https://komarev.com/ghpvc/?username=PrintfDead"/></h1>
+
+<h3 >:butterfly: Hola! Soy Printf, un desarrollador de videojuegos en Unity. desarrollador web y desarrollador de software, me gusta el cafe de moca y los videojuegos <br> <a href="https://rip.akaprintf.ml/">printf.opnsafe.xyz (Proximamente)</a></ h3>
+<h3 >:butterfly: Hello! I'm Printf, a game developer on Unity. web developer and software developer, i like cafe de mocha and video games <br> <a href="https://rip.akaprintf.ml/">printf.opnsafe.xyz (Proximamente)</a></h3 ><br><br>
+
+> Profile information: :book:
+
+- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrintfDead&layout=compact"><br><br>
+
+> Projects: :star:
+- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrintfDead&repo=AjaxDB"><br><br><br>
+
+
+> Technologies: :dizzy:
 <p align="center" align-items="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=PrintfDead"/><br><br>
-  <p align="center">
-    <code>Sobre mi</code><br><br>
-    <p align="center">Hola! Soy Printf, un desarrollador de videojuegos en Unity. desarrollador web y desarrollador de software, me gusta el cafe de moca y los videojuegos <br> <a href="https://rip.akaprintf.ml/">printf.opnsafe.xyz (Proximamente)</a></p>
-  </p><br><br>
   <p align="center" style="padding-top: 10px">
-    <code>Arbol de tecnologias</code><br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrintfDead&repo=AjaxDB"><br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrintfDead&layout=compact">
-    <br><br>
     <table style="padding: 10px">
       <tr>
         <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width=50></img></th>
