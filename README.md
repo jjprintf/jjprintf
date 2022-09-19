@@ -3,15 +3,15 @@
 <h3 >:butterfly: Hola! Soy Printf, un desarrollador de videojuegos en Unity. desarrollador web y desarrollador de software, me gusta el cafe de moca y los videojuegos <br> <a href="https://rip.akaprintf.ml/">printf.opnsafe.xyz (Proximamente)</a></ h3>
 <h3 >:butterfly: Hello! I'm Printf, a game developer on Unity. web developer and software developer, i like cafe de mocha and video games <br> <a href="https://rip.akaprintf.ml/">printf.opnsafe.xyz (Proximamente)</a></h3 ><br><br>
 
-> Profile information: :book:
+> **Profile information:** :book:
 
 - <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrintfDead&layout=compact"><br><br>
 
-> Projects: :star:
+> **Projects:** :star:
 - <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrintfDead&repo=AjaxDB"><br><br><br>
 
 
-> Technologies: :dizzy:
+> **Technologies:** :dizzy:
 <p align="center" align-items="center">
   <p align="center" style="padding-top: 10px">
     <table style="padding: 10px">
