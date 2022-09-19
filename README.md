@@ -5,7 +5,8 @@
 
 > **Profile information:** :book:
 
-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrintfDead&layout=compact"><br><br>
+- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrintfDead&layout=compact">
+- <a href="https://dsc.bio/printf">**My Discord Bio**</a><br><br>
 
 > **Projects:** :star:
 - <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrintfDead&repo=AjaxDB"><br><br><br>
