@@ -11,10 +11,10 @@
         I'm Printf, a Student. Game dev and software dev
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+love+anime+and+games.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+love+programming+and+games.">
       <br>
       <b>
-        ~ OpenSafe ~
+        ~ PrintfDead ~
       </b>
     </samp>
   </p>
@@ -31,10 +31,10 @@
 <p align="center">
   <samp>
     [<a href="https://twitter.com/PrintfR">twitter</a>]
-    [<a href="https://instagram.com/jprintf">instagram</a>]
+    [<a href="https://printfdead.github.io">portafolio</a>]
     [<a href="https://dsc.bio/printf">discord-bio</a>]
     [<a href="mailto:printfcontact@gmail.com">e-mail</a>]
-    [<a href="https://discord.gg/">open-safe</a>]
+    [<a href="https://discord.gg/gNypW5aYyj">open-safe</a>]
   </samp>
 </p>
 
