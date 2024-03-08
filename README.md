@@ -1,24 +1,20 @@
-<!-- Rxyhn's Aesthetic GitHub Profile -->
 <div align="justify">
-
 <!-- Profile -->
-<p align="left"><strong><samp>「</samp></strong></p>
-  <p align="center">
-    <samp>
-      <b>
-        Hello There
-      <br>
-        I'm Printf, a Student. Game dev and software dev
-      </b>
-      <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+love+programming+and+games.">
-      <br>
-      <b>
-        ~ PrintfDead ~
-      </b>
-    </samp>
-  </p>
-<p align="right"><strong><samp>」</samp></strong></p>
+<p align="center">
+  <samp>
+    <b>
+      Hello There
+    <br>
+      I'm Printf, a Student. Game, back end and software dev
+    </b>
+    <br>
+      <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+love+programming+and+games.">
+    <br>
+    <b>
+      ~ PrintfDead ~
+    </b>
+  </samp>
+</p>
 
 <br>
 
@@ -30,7 +26,7 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>
-    [<a href="https://twitter.com/PrintfR">twitter</a>]
+    [<a href="https://twitter.com/PrintfDev">twitter</a>]
     [<a href="https://printfdead.github.io">portafolio</a>]
     [<a href="https://dsc.bio/printf">discord-bio</a>]
     [<a href="mailto:printfcontact@gmail.com">e-mail</a>]
@@ -44,28 +40,15 @@
 <p align="center">
   <samp>
   <a href="#--------">
-    <img src="https://komarev.com/ghpvc/?username=PrintfDead&label=Profile+Views&color=grey" alt="profile views" /> 
+    <img src="https://komarev.com/ghpvc/?username=PrintfDead&label=Profile+Views&color=blue&style=for-the-badge&abbreviated=true" alt="profile views" /> 
   </a>
   </samp>
 </p>
 
-<!-- Github Trophy -->
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=PrintfDead&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=nord"></a></td>
-    </tr>
-  </table>
-</div>
-
 <!-- Github Stats -->
 <div align="center">
-  <table>
-    <tr>
-      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PrintfDead&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
-      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrintfDead&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
-    </tr>
-  </table>
+    <a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PrintfDead&count_private=true&show_icons=true&include_all_commits=true&line_height=21&theme=dark#gh-dark-mode-only"/></a></td>
+    <a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrintfDead&layout=compact&line_height=21&hide=less,html,css,python,cmake,pawn,shell&theme=dark#gh-dark-mode-only"/></a></td>
 </div>
 
 </details>
