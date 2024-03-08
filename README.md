@@ -8,7 +8,7 @@
       I'm Printf, a Student. Game, back end and software dev
     </b>
     <br>
-      <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+love+programming+and+games.">
+      <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&pause=1000&color=6791C9&center=true&vCenter=true&random=false&width=410&height=45&lines=I+love+programming+and+games.;Gaming+%26+C%2B%2B+enthusiast.;I+love+coffe.;Naruto+fan.;I'm+17+y.">
     <br>
     <b>
       ~ PrintfDead ~
