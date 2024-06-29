@@ -26,11 +26,11 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>
-    [<a href="https://twitter.com/PrintfDev">twitter</a>]
-    [<a href="https://printfdead.github.io">portafolio</a>]
+    [<a href="https://twitter.com/usdjoaco">twitter</a>]
+    [<a href="https://jjprintf.github.io">portafolio</a>]
     [<a href="https://dsc.bio/printf">discord-bio</a>]
     [<a href="mailto:printfcontact@gmail.com">e-mail</a>]
-    [<a href="https://discord.gg/gNypW5aYyj">open-safe</a>]
+    [<a href="https://discord.gg/gNypW5aYyj">printf cave.</a>]
   </samp>
 </p>
 
@@ -40,15 +40,15 @@
 <p align="center">
   <samp>
   <a href="#--------">
-    <img src="https://komarev.com/ghpvc/?username=PrintfDead&label=Profile+Views&color=blue&style=for-the-badge&abbreviated=true" alt="profile views" /> 
+    <img src="https://komarev.com/ghpvc/?username=jjprintf&label=Profile+Views&color=blue&style=for-the-badge&abbreviated=true" alt="profile views" /> 
   </a>
   </samp>
 </p>
 
 <!-- Github Stats -->
 <div align="center">
-    <a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PrintfDead&count_private=true&show_icons=true&include_all_commits=true&line_height=21&theme=dark#gh-dark-mode-only"/></a></td>
-    <a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrintfDead&layout=compact&line_height=21&hide=less,html,css,python,cmake,pawn,shell&theme=dark#gh-dark-mode-only"/></a></td>
+    <a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jjprintf&count_private=true&show_icons=true&include_all_commits=true&line_height=21&theme=dark#gh-dark-mode-only"/></a></td>
+    <a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjprintf&layout=compact&line_height=21&hide=less,html,css,python,cmake,pawn,shell&theme=dark#gh-dark-mode-only"/></a></td>
 </div>
 
 </details>
