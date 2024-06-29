@@ -48,7 +48,7 @@
 <!-- Github Stats -->
 <div align="center">
     <a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jjprintf&count_private=true&show_icons=true&include_all_commits=true&line_height=21&theme=dark#gh-dark-mode-only"/></a></td>
-    <a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjprintf&layout=compact&line_height=21&hide=less,html,css,python,cmake,pawn,shell&theme=dark#gh-dark-mode-only"/></a></td>
+    <a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjprintf&layout=compact&line_height=21&hide=less,html,css,python,cmake,pawn,shell,c&theme=dark#gh-dark-mode-only"/></a></td>
 </div>
 
 </details>
